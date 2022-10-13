@@ -1,4 +1,4 @@
-# Project : Tree Specials
+# Project : Tree Species
 
 ## Check The Live Website ➡️ [Live Website](https://coopertourplaces.netlify.app/)
 
@@ -32,15 +32,23 @@ Image Gellery Project(folder)
 │     └── index.html
 ├── src
 │    ├── components
-│    │       ├── Picture.jsx
-│    ├── pages
+│    │       ├── Header
+|    |       │        ├──Header.jsx
+|    |       │        ├──Header.css
+│    │       ├── Main
+|    |              ├──Card.jsx
+|    |              ├──Card.css
+|    |              ├──Writer.jsx
+|    |              ├──Writer.css
+|    ├── pages
 │    │       ├── Homepage.jsx
 │    ├── helper
 │    │       └── data.js
-│    ├── styles
-│    │       ├── style.css
+│    ├── 
+│    ├── App.css
 │    ├── App.js
 │    ├── index.js
+|    ├── index.css
 └── package.json
 ```
 
