@@ -1,4 +1,4 @@
-# Project : Tree Species
+# Project : Toure Species
 
 ## Check The Live Website ➡️ [Live Website](https://coopertourplaces.netlify.app/)
 
